@@ -1,6 +1,6 @@
 {
     "name": "Cowbell Organization Workflow",
-    "description": "Cowbell Organization CI starter workflow.",
+    "description": "Cowbell Organization CI starter workflow for Dockerized Kotlin+Micronaut applications.",
     "iconName": "example-icon",
     "categories": [
         "continuous-integration",
