@@ -1,0 +1,14 @@
+{
+    "name": "Cowbell Organization Workflow",
+    "description": "Cowbell Organization CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "continuous-integration",
+        "Kotlin"
+    ],
+    "filePatterns": [
+        "build.gradle$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
